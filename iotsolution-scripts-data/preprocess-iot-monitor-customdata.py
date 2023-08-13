@@ -200,8 +200,8 @@ latlong=lat:long'
  
      identifier = "IoT device performance and failures"
 
-     #preprocesslogic='anomprob,trend,avg'
-     preprocesslogic='consistency,spikedetect,median,diff,varied'
+     preprocesslogic='anomprob,trend,avg'
+     #preprocesslogic='consistency,spikedetect,median,diff,varied'
 
      
 #     pathtotmlattrs='oem=id,lat=subject.reference,long=component.0.code.coding.0.display,location=component.1.valueQuantity.value'     
