@@ -202,7 +202,7 @@ latlong=lat:long'
 
      # preprocesslogic='anomprob,trend,avg'
      # preprocesslogic='consistency,spikedetect,median,diff,varied'
-     preprocesslogic='max,min,avg'
+     preprocesslogic='max,min,avg,trend,anomprob'
 
      
 #     pathtotmlattrs='oem=id,lat=subject.reference,long=component.0.code.coding.0.display,location=component.1.valueQuantity.value'     
